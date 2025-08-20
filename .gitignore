@@ -80,6 +80,3 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Archivos específicos del proyecto
-alumnos2.md
-tp/
