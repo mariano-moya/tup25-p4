@@ -17,6 +17,7 @@
 - 61240  Timo, Gabriel                             (381) 343-0992
 - 61315  Robles,Thiago                             (381) 567-4692
 - 61335  Leon, Lucas Ismael                        (381) 609-7898
+- 61337  Díaz, Christian Gabriel                   (381) 571‑4797
 - 61338  Morales, Juan Daniel                      (381) 665-5296
 - 61463  Gonzalez, Vladimir                        (381) 419-4154
 - 61468  Samaniego Esteban Maximiliano             (381) 679-6586
@@ -24,10 +25,16 @@
 - 61551  Diaz Valdez, Ignacio                      (381) 695-8566
 - 61565  Carrizo, Mauro                            (381) 610-8745
 - 61725  Villagra, Jorge Sebastián                 (381) 594-1635
+- 61805  Jerez, Tomás                              (381) 338‑0186
+- 61813  Figueroa, Manuel                          (381) 544-2423
 - 61911  Llanos, Luciano                           (381) 325-9224
 - 61993  Medina, Juan Ignacio                      (381) 517-1937
+- 62171  Ballespin, Cristian ~1                    (381) 604‑5734
 - 62175  Quiroga, Marcela Noemi Quiroga            (381) 593-8430
+- 62263  Orellana, José Augusto                    (381) 339‑2050
 - 62318  Quiroga Castro, Lisandro                  (381) 390-9133
+- 99001  Desconocido ~2                            (381) 539‑0011
+- 99002  Branda, Cesar ~3                          (381) 212‑6932
 ```
 
 ## C3
@@ -36,6 +43,7 @@
 - 61059  Palavecino, Fabricio Gaston               (381) 666-6103
 - 61113  Oriz Caballero, Juan José                 (381) 631-7223
 - 61136  Sosa, Oscar Ignacio                       (381) 528-9145
+- 61150  Molina Navarro, Juan Martin               (381) 644-3413
 - 61197  Romano, Alfredo Nicolás                   (381) 648-8513
 - 61200  Gauna Serrano, Martin Javier              (381) 389-2631
 - 61203  Acevedo Costello, Juan Ignacio            (381) 388-7804
@@ -59,6 +67,7 @@
 - 61667  Acosta, Maira                             (381) 562-8162
 - 61676  Maximiliano, Massey                       (381) 359-9941
 - 61679  Lobo Barrera, Mia de los Angeles          (381) 677-0639
+- 61719  Amoedo, Pablo Isaias                      (381) 463‑6126
 - 61720  Fernandez, Luciano                        (381) 586-7891
 - 61730  Diaz, Antonio                             (381) 392-6461
 - 61793  Trujillo, Facundo Nahuel                  (381) 206-2084
