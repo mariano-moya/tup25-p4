@@ -296,8 +296,8 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-FN:Oriz Caballero, Juan José
-N:Oriz Caballero;Juan José;;;
+FN:Oríz Caballero, Juan José
+N:Oríz Caballero;Juan José;;;
 TEL;TYPE=CELL:3816317223
 NOTE:Legajo: 61113 - Comision: P4-C3
 END:VCARD
@@ -628,6 +628,14 @@ FN:Frias Silva, Juan Segundo
 N:Frias Silva;Juan Segundo;;;
 TEL;TYPE=CELL:3814158753
 NOTE:Legajo: 62093 - Comision: P4-C3
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:Mariana Aylen Salcedo
+N:;Mariana Aylen Salcedo;;;
+TEL;TYPE=CELL:3814669695
+NOTE:Legajo: 62172 - Comision: P4-C3
 END:VCARD
 
 BEGIN:VCARD
