@@ -4,8 +4,8 @@
 
 ```text
 - 61131  Agostino Colombres, Juan Manuel           (381) 684-8399  a
-- 62171  Ballespin, Cristian ~1                    (381) 604‑5734  c
-- 99001  Branda, Cesar ~3                          (381) 212‑6932  c
+- 62171  Ballespin, Cristian                       (381) 604‑5734  c
+- 99001  Branda, Cesar                             (381) 212‑6932  c
 - 61565  Carrizo, Mauro                            (381) 610-8745  a
 - 61551  Diaz Valdez, Ignacio                      (381) 695-8566  a
 - 61472  Diaz, Julieta Camila                      (381) 652-9981  c

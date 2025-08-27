@@ -216,8 +216,8 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-FN:Ballespin, Cristian ~1
-N:Ballespin;Cristian ~1;;;
+FN:Ballespin, Cristian
+N:Ballespin;Cristian;;;
 TEL;TYPE=CELL:3816045734
 NOTE:Legajo: 62171 - Comision: P4-C1
 END:VCARD
@@ -248,8 +248,8 @@ END:VCARD
 
 BEGIN:VCARD
 VERSION:3.0
-FN:Branda, Cesar ~3
-N:Branda;Cesar ~3;;;
+FN:Branda, Cesar
+N:Branda;Cesar;;;
 TEL;TYPE=CELL:3812126932
 NOTE:Legajo: 99001 - Comision: P4-C1
 END:VCARD
