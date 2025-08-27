@@ -91,26 +91,27 @@ ID Nombre Completo       Edad        Teléfono        Email
 ## Cómo presentar el trabajo
 
 1. Clonar el repositorio.
- `(File | Clone Repository...)`
+ > File | Clone Repository...
 
 2. Crear una rama (TP1-{Legajo}).
- `(Branch | New branch...)`
+ > Branch | New branch...
 
 3. Resolver el ejercicio (modificar los archivos en la carpeta TP/{Legajo...}/tp1, según corresponda).
+> Editar `ejercicio.js`
 
 4. Confirmar los cambios realizados.
- `(Commit)`
+ > Commit
 
 5. Publicar los cambios en GitHub.
- `(Repository | Push)`
+ > Repository | Push
 
 6. Realizar la solicitud de incorporación (pull request) hacia la rama principal (main).
-  `(Branch | Create pull request)`
+ > Branch | Create pull request
  > NOTA: El pull request debe ser descrito como "TP1 - {Legajo} - {Nombre Apellido}".
 
 7. Volver a la rama principal.
- `(Current branch | main)`
+ > Current branch | main
 
 8. Actualizar los datos del repositorio local para mantenerlo sincronizado con los últimos cambios.
- `(Repository | Fetch)`
- `(Repository | Pull)`
+ >`(Repository | Fetch)`
+ >`(Repository | Pull)`
