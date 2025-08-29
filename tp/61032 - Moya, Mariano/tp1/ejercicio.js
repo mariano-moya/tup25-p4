@@ -180,7 +180,7 @@ async function main() {
                 console.log('Opción inválida.');
                 await pausa();
         }
-        console.log('-----');
+        console.log('------');
     }
 }
 
